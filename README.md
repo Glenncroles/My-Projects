@@ -1,4 +1,4 @@
-# My-Projects
-A collection of my Code
+# My Projects
+## A collection of my Code
 
 > Except for my Java stuff aparently I deleted them
